@@ -3,4 +3,4 @@ Quem escreveu o livro de Hebreus é uma pergunta feita desde muito cedo na hist�
 
 Para essa análise foi utilizado a versão NA28, em grego, utilizando um script de webscrapping. Logo após foi feita uma normalização dos dados. E apartir dessa etapa, foi feita a classificação dos versiculos do livro de Hebreus em relação aos autores do Novo Testamento.
 
-![image](https://user-images.githubusercontent.com/31113343/159778448-1abf3ae3-eac3-48d0-ae47-415a629e886e.png)
+![image](https://user-images.githubusercontent.com/31113343/159778857-94359f26-8ab4-47ef-92d1-ada3b69fa9a6.png)
